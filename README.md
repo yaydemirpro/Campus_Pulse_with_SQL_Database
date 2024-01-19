@@ -90,11 +90,6 @@
   - Achievements, Learnings, Future Plans.
   - Questions and Answers.
 
-### Closing:
-- **Thanks and Contact:**
-  - Encourage questions and contact via email: info@infotechacademy.eu.
-  - [Website](https://www.infotechacademy.eu)
-
 ### Coding Phase:
 - Encourage the team to start coding.
 
